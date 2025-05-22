@@ -13,7 +13,7 @@ Firstly, the data that is going to be used for analysis was extracted from a MyS
 
 
 ## Data Cleaning, Customer Behavior Analysis and Churn Prediction 
-Then, the exported dataset will be cleaned to remove inconsistencies and prepare it for analysis. This was followed by hypothesis testing of spending among different groups of customers, correlation analysis, and the development of a predictive model to forecast the churn rate of customers based on specific purchase behaviour. The entire process from data extraction and cleaning to analysis and modeling will be carried out using Python. This part can be viewed [here](https://github.com/kyawsoe177/Retail-Order-Analysis/blob/main/retail_order_analysis.ipynb)
+Then, the exported dataset will be cleaned to remove inconsistencies and prepare it for analysis. This was followed by hypothesis testing of spending among different groups of customers, correlation analysis, and the development of a predictive model to forecast the churn rate of customers based on specific purchase behaviour. The entire process from data extraction and cleaning to analysis and modeling will be carried out using Python. This part can be viewed [here](https://github.com/kyawsoe177/Retail-Order-Analysis/blob/main/retail_order_analysis.ipynb).
 
 ## Overview Dashboard
 Lastly, other additional insights and patterns were visualized using Tableau to support data-driven decision-making.
